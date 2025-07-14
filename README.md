@@ -82,17 +82,6 @@ Install necessary packages:
 ![App Screenshot](./assets/demo.png)
 *Simple Streamlit interface for real-time Darija ↔ English translation.*
 
-## Project Structure
-
-```
-.
-├── mbart-fine-tuning.ipynb         # Notebook for preprocessing, training, and evaluation
-├── app/streamlit_app.py            # Streamlit interface script
-├── data/cleaned_darija_dataset.csv # Training data
-├── assets/demo.png                 # Screenshot of the app (for README)
-├── saved_model/                    # (Optional) Locally saved model files
-└── README.md
-```
 
 ## Target Audience
 

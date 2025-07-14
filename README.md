@@ -92,7 +92,7 @@ Install necessary packages:
 
 ## Author & Credits
 
-**Author:** Charif El Belghiti
-**Model:** [Available on Hugging Face Hub](https://huggingface.co/echarif/mBART_for_darija_transaltion)
+**Author:** Charif El Belghiti<br>
+**Model:** [Available on Hugging Face Hub](https://huggingface.co/echarif/mBART_for_darija_transaltion)<br>
 **Demo:** [Live on Hugging Face Spaces](https://huggingface.co/spaces/echarif/Darija_to_English_Translation)
 

@@ -77,8 +77,6 @@ Install necessary packages:
 * Achieved good BLEU scores on validation and test sets.
 * The model generalized well on unseen Darija expressions and informal speech.
 
-*(Add exact BLEU scores or example translations if available.)*
-
 ## App Demo
 
 ![App Screenshot](./assets/demo.png)
@@ -106,14 +104,6 @@ Install necessary packages:
 ## Author & Credits
 
 **Author:** Charif El Belghiti
-**Model:** [Available on Hugging Face Hub](https://huggingface.co/your-username/your-model-name)
-**Demo:** [Live on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)
+**Model:** [Available on Hugging Face Hub](https://huggingface.co/echarif/mBART_for_darija_transaltion)
+**Demo:** [Live on Hugging Face Spaces](https://huggingface.co/spaces/echarif/Darija_to_English_Translation)
 
-**Acknowledgments:**
-
-* Hugging Face documentation and tutorials
-* Dataset authors (if applicable — add citation here)
-
----
-
-Would you like me to save this as `README.md` and help generate the Streamlit `app.py` as well?
